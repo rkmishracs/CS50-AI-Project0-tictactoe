@@ -2,6 +2,7 @@
 Tic Tac Toe Player
 """
 
+#this project in basically for tic toc game in python
 import math
 import copy
 
